@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using SalesWebTest.Models;
+using SalesWebTest.Models.ViewModels;
 
 namespace SalesWebTest.Controllers
 {
